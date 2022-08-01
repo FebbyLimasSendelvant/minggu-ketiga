@@ -695,8 +695,8 @@ Percobaan pada console:
 
 Keterangan:
 
-<indeks> adalah indeks dari data di dalam array yang akan dihapus;
-<total> adalah jumlah data yang akan dihapus dari indeks tersebut.
+    <indeks> adalah indeks dari data di dalam array yang akan dihapus;
+    <total> adalah jumlah data yang akan dihapus dari indeks tersebut.
 Biasanya kita berikan nilai total dengan nilai 1 agar hanya menghapus satu data saja.
 
 Contoh:
